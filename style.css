@@ -610,7 +610,6 @@ header ul a {
 
 @media screen and (max-width: 700px) {
     header {
-        position: fixed;
         height: 50px;
         justify-content: center;
         align-items: center !important;
@@ -637,7 +636,7 @@ header ul a {
     }
 
     .hero-info {
-        bottom: 5%;
+        bottom: 22%;
     }
 
     .scroll-down {
